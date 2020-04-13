@@ -1,0 +1,108 @@
+.count {
+  font-size: 40px;
+  color: #fff;
+}
+.amount {
+  font-size: 15px;
+  color: #fff;
+  padding-top: 24px;
+}
+.percentDip {
+  color: #fff;
+}
+.percentRaise {
+  color: #fff;
+}
+.TripId1 {
+  font-weight: 700;
+  font-size: 15px;
+}
+.TripId {
+  font-size: 15px;
+  color: gray;
+  font-weight: 900;
+}
+.name_heading {
+  color: #fff;
+  text-transform: uppercase;
+}
+.ant-card-head {
+  border: none !important;
+}
+.MissingIcon {
+  color: #ef7334;
+  font-size: 23px;
+}
+.DetentionIcon {
+  color: #000000;
+  font-size: 23px;
+}
+.Missingvalue {
+  float: right;
+}
+.Detentionvalue {
+  float: right;
+}
+.Highvalueshipment {
+  color: #f530e9;
+  font-size: 23px;
+}
+.Highvalueshipmentvalue {
+  float: right;
+}
+.Highvalueshipmentontime {
+  color: #fff;
+  background: #f530e9;
+  border-radius: 10px;
+  margin-left: 15px;
+  padding: 3px;
+}
+.DoYou {
+  color: #08c617;
+  font-size: 23px;
+}
+.DoYoupara {
+  font-size: 15px;
+}
+.TransporterDetails {
+  color: #7deff6;
+  font-size: 23px;
+}
+.value_btn {
+  background-color: antiquewhite;
+  border: none;
+  border-radius: 10px;
+}
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled) {
+  z-index: 1;
+  background: #00008b !important;
+  color: #fff !important;
+  border-color: #00008b !important;
+}
+.btn_high {
+  border: 1px solid #f530e9;
+  background-color: #fff;
+  color: #f530e9;
+  font-weight: 700;
+  font-size: 15px;
+  width: 150px;
+  height: 40px;
+}
+.btn_Do {
+  border: 1px solid #08c617;
+  background-color: #fff;
+  color: #08c617;
+  font-weight: 700;
+  font-size: 15px;
+  width: 150px;
+  height: 40px;
+}
+.btn_trans {
+  border: 1px solid #7deff6;
+  background-color: #fff;
+  color: #7deff6;
+  font-weight: 700;
+  font-size: 15px;
+  width: 150px;
+  height: 40px;
+}

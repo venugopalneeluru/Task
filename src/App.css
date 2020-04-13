@@ -1,0 +1,18 @@
+.site-card-wrapper {
+  background: #ececec;
+  padding: 30px;
+}
+.site-card-wrapper-color {
+  background-color: #417df3;
+}
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Venu:nth-child(2) {
+  background: red;
+}
